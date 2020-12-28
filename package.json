@@ -1,0 +1,11 @@
+{
+  "name": "week1programmingassignment",
+  "version": "1.0.0",
+  "description": "program to decipher multiple use stream cipher",
+  "main": "ManyTimePad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Weiler",
+  "license": "ISC"
+}
